@@ -4,15 +4,15 @@ A collection of small, console and GUI-based games built with Python.
 
 This project contains multiple mini-games developed using:
 
-Python 3
+𖧋 Python 3
 
-Console (terminal-based) applications
+𖧋 Console (terminal-based) applications
 
-GUI applications using:
+𖧋 GUI applications using:
 
-pygame 
+𖧋 Pygame 
 
-Other basic Python GUI libraries
+𖧋 Other basic Python GUI libraries
 
 Each game focuses on improving problem-solving skills, logic implementation, and user interaction
 
